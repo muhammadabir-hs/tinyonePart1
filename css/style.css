@@ -1,0 +1,48 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+/*common css starts*/
+body {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #898989;
+}
+/*common css ends*/
+
+
+
+/*header starts*/
+header {
+	background-color: #fcdb00;
+	padding: 20px 0;
+}
+.cu_nav {}
+.logo {}
+.c_toggle {
+	color: rgba(21, 20, 20, 1) !important;
+}
+.menu ul li a {
+	text-align: right;
+	margin: 10px 0 0;
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101 !important;
+}
+.menu ul li :last-child a {
+	margin-right: 0; 
+}
+.menu ul li a:hover {
+ color: white !important;
+}
+
+
+/*header ends*/
+
+/*slider starts*/
+.slider {
+	background-color: #fcdb00;
+}
+.container {}
+.row {}
+
+/*slider ends*/
